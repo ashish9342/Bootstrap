@@ -1,2 +1,2 @@
 # Bootstrap
-This directory contains bootstrap examples and
+This directory contains bootstrap examples
