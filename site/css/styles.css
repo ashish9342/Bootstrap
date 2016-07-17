@@ -1,0 +1,69 @@
+header{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.banner{
+    background: url(../images/banner01.jpg) #fff no-repeat;
+    background-position: top;
+    background-size: contain;
+    height: 509px;
+}
+.logo{
+	background: url(../images/logo.png) no-repeat;
+    background-position: top;
+    background-size: contain;
+    height: 52px;
+    width: 132px;
+}
+.bg-faded{
+	background-color: rgba(253,253,253,0.9);
+}
+.content{
+	margin-top:2rem;
+}
+.contentd{
+	margin-bottom:1rem;
+}
+
+.bg-dark{
+    background: url(../images/bg.png) #000 repeat;
+    background-position: top;
+    background-size: contain;
+    padding-top: 2rem;	
+}
+footer h5{
+	color: #fff;
+}
+footer ul{
+	list-style: none;
+	padding: 0;
+	color: #fff;
+
+}
+#social{
+	background: url(../images/social.png) no-repeat;
+    background-size: contain;
+    height: 52px;
+    margin-bottom:1rem;
+}
+
+// Extra small devices (portrait phones, less than 34em)
+@media (max-width: 33.9em) {
+
+}
+
+// Small devices (landscape phones, less than 48em)
+@media (max-width: 47.9em) {
+
+}
+
+// Medium devices (tablets, less than 62em)
+@media (max-width: 61.9em) {
+
+}
+
+// Large devices (desktops, less than 75em)
+@media (max-width: 74.9em) {
+
+}
